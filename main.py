@@ -10,7 +10,7 @@
 #tsf = pd.read_dataset("cpiai.csv")
 
 
-import random
+import random as rd
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
